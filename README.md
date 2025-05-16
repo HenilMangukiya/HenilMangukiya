@@ -34,3 +34,48 @@ I love working with data, building efficient pipelines, analyzing insights, and 
 - 📱 **Mobile Development:** Flutter (Learning phase)
 
 ---
+## 🏆 Certifications
+
+<!-- NPTEL MOOC Courses -->
+###  NPTEL MOOC Courses
+<div align="center">
+  <a href="https://drive.google.com/file/d/1DekkSujHvz_P_iYEngh4c8Lm6oh5nBXt/view?usp=sharing"><img src="https://img.shields.io/badge/-Programming_in_C-9F1D20?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="NPTEL Programming in C"/></a>
+  <a href="https://drive.google.com/file/d/1JJHLRZxxnYaJIBnj5MSZ7Ic7fM5ndNxx/view?usp=drive_link"><img src="https://img.shields.io/badge/-DBMS-9F1D20?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="NPTEL DBMS"/></a>
+  <a href="https://drive.google.com/file/d/1rUnZ8wH1oCXGHea7NZmZvRnV6N88OHXX/view?usp=drive_link"><img src="https://img.shields.io/badge/-DS%26A_with_Java-9F1D20?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="NPTEL DSA with Java"/></a>
+  <a href="https://drive.google.com/file/d/1zptJI6zcRHMZAWZMipPZgSB-hUyuGCPY/view?usp=drive_link"><img src="https://img.shields.io/badge/-Operating_Systems-9F1D20?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="NPTEL OS Fundamentals"/></a>
+</div>
+
+<!-- DataCamp Courses -->
+### DataCamp Courses
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Intro_to_Power_BI-326CE5?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-EDA_in_Power_BI-326CE5?style=for-the-badge&logo=powerbi&logoColor=white" alt="EDA Power BI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Intro_to_Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Intro Tableau"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Data_Visualization_Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Viz Tableau"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Understanding_Data_Engineering-003B57?style=for-the-badge&logo=data&logoColor=white" alt="Data Engineering"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Intro_to_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Intro SQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Intermediate_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Intermediate SQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Relational_Database_SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Relational SQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Data_Warehousing_Concepts-59666C?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Warehousing"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Intro_to_Snowflake_SQL-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake SQL"/></a>
+</div>
+
+<!-- AWS Academy -->
+### AWS Academy
+<div align="center">
+  <a href="https://www.credly.com/badges/4277e19c-e897-42c0-b665-c70e0525ae07/public_url">
+    <img src="https://img.shields.io/badge/-AWS_Cloud_Developing-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Developing"/>
+  </a>
+</div>
+
+<!-- TCS iON -->
+###  TCS iON Career Edge
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Career_Edge_Young_Professional-EE6C4D?style=for-the-badge&logo=tata&logoColor=white" alt="TCS iON Career Edge"/></a>
+</div>
+
+<!-- Udemy -->
+###  Udemy
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Web_Dev_Bootcamp_2024-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Web Dev Bootcamp"/></a>
+</div>
