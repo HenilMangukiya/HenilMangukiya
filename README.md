@@ -75,3 +75,36 @@ I love working with data, building efficient pipelines, analyzing insights, and 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Web_Dev_Bootcamp_2024-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Web Dev Bootcamp"/></a>
 </div>
+
+---
+
+## 📂 Projects
+
+### 🔹 [📈 Real-Time Stock Market Dashboard](https://github.com/HenilMangukiya/Apache_kafka)
+> **Tech Stack:** `Apache Kafka` `PySpark` `Snowflake` `Apache Superset` `Apache Airflow`  
+> Built a real-time ETL pipeline that streams stock data using Kafka, processes it with PySpark, stores it in Snowflake, and visualizes insights using Apache Superset.  
+> 📌 Features: Dynamic stock filtering, Airflow orchestration, live dashboard updates.
+
+---
+
+### 🔹 [📊 Stock Market Analysis using Power BI](https://github.com/HenilMangukiya/Stock_analysis_power_bi)
+> **Tech Stack:** `Power BI` `Excel` `DAX`  
+> Designed an interactive dashboard to analyze historical stock trends and performance.  
+> 📌 Features: Custom slicers, forecasting, KPI cards, fiscal year logic, and responsive visuals.
+
+---
+
+### 🔹 [📉 Cricket Data Dashboard (Tableau)](https://github.com/HenilMangukiya/Cricket_data_analysis_Tableau)
+> **Tech Stack:** `Tableau` `Excel`  
+> Built a multi-page Tableau dashboard to track sales, regional performance, and customer insights for a cement company.  
+> 📌 Features: Drill-downs, filters, charts, story points for effective presentation.
+
+---
+
+### 🔹 [📚 Bookstore Web App](https://github.com/HenilMangukiya/doctor-appointment-system)
+> **Tech Stack:** `Node.js` `Express` `MongoDB` `HTML` `CSS` `JavaScript`  
+> Developed a full-stack bookstore application with features like user authentication, product listing, cart management, and order tracking.  
+> 📌 Features: Responsive design, admin dashboard, secure login system, CRUD operations.
+
+---
+
