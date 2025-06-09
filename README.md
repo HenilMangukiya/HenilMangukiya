@@ -63,16 +63,12 @@ I love working with data, building efficient pipelines, analyzing insights, and 
 <!-- AWS Academy -->
 ### AWS Academy
 <div align="center">
-  <a href="https://www.credly.com/badges/4277e19c-e897-42c0-b665-c70e0525ae07/public_url">
+  <a href="https://www.credly.com/badges/6aeb79bf-4c03-4aa5-aeba-bf737ef4be3e/public_url">
     <img src="https://img.shields.io/badge/-AWS_Cloud_Developing-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Developing"/>
   </a>
 </div>
 
-<!-- TCS iON -->
-###  TCS iON Career Edge
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Career_Edge_Young_Professional-EE6C4D?style=for-the-badge&logo=tata&logoColor=white" alt="TCS iON Career Edge"/></a>
-</div>
+
 
 <!-- Udemy -->
 ###  Udemy
