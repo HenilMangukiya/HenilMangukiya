@@ -107,4 +107,19 @@ I love working with data, building efficient pipelines, analyzing insights, and 
 > 📌 Features: Responsive design, admin dashboard, secure login system, CRUD operations.
 
 ---
+## 📬 Contact Me
 
+<p align="center">
+  <a href="mailto:henilmangukiya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/henil-mangukiya-5ab566242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HenilMangukiya&color=blueviolet&style=flat-square" alt="Profile views" />
+  
+  ⭐️ From <a href="https://github.com/HenilMangukiya">Henil Mangukiya</a> with 💻
+</div>
